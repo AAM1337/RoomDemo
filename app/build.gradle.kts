@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.laba5bd"
+    namespace = "com.bignerdranch.android.roomdemo"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.laba5bd"
+        applicationId = "com.bignerdranch.android.roomdemo"
         minSdk = 27
         targetSdk = 36
         versionCode = 1
